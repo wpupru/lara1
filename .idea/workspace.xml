@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66a7f805-497a-494b-9db5-e76624acc847" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" executionDataType="PHAR" phpInterpreterId="40a477aa-5db2-42d1-a2d5-3718631d47a8" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>D:\localhost\apps\composer\composer.json</pharConfigPath>
+    <pharPath>D:\localhost\apps\composer\composer.phar</pharPath>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/composer" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/danielstjules/stringy" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/ircmaxell/password-compat" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpspec/phpspec" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/../../apps/composer/vendor/webmozart/assert" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="395" />
+    <option name="y" value="11" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lara1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara1" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lara1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bin/php/php7.0.10/php.exe" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/lara1/public/index.php" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66a7f805-497a-494b-9db5-e76624acc847" name="Default" comment="" />
+      <created>1508521791435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508521791435</updated>
+      <workItem from="1508521792805" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="199000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="79" y="-8" width="1740" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

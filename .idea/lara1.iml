@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/classpreloader/classpreloader" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/danielstjules/stringy" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/ircmaxell/password-compat" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/jakub-onderka/php-console-color" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/jeremeamia/SuperClosure" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/laravel/framework" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/league/flysystem" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/mtdowling/cron-expression" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/nesbot/carbon" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpspec/php-diff" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpspec/phpspec" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/psy/psysh" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/filesystem" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/security-core" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/var-dumper" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/vlucas/phpdotenv" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/webmozart/assert" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/classpreloader/classpreloader" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/danielstjules/stringy" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/ircmaxell/password-compat" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/jakub-onderka/php-console-color" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/jeremeamia/SuperClosure" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/laravel/framework" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/league/flysystem" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/mtdowling/cron-expression" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/nesbot/carbon" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpspec/php-diff" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpspec/phpspec" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/psy/psysh" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/filesystem" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/security-core" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/var-dumper" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/vlucas/phpdotenv" />
+          <root url="file://$MODULE_DIR$/../../apps/composer/vendor/webmozart/assert" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
