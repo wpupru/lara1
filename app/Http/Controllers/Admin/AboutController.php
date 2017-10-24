@@ -10,12 +10,18 @@ use App\Http\Controllers\Controller;
 class AboutController extends Controller {
 
     public function show(){
-        $data = [
+      /*  $data = [
             'title' => 'О нас',
-        ];
+        ];*/
+
+     // return 'hello';
+
 
         if(view()->exists('default.about')){
-            return view('default.about', $data);
+
+
+
+            return view('default.about')->withTitle('О нас');
         }
         abort(404);
     }

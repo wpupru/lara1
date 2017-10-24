@@ -35,7 +35,7 @@ Route::get('/about', ['uses' => 'Admin\AboutController@show', 'as' => 'about']);
 Route::get('/articles', ['uses' => 'Admin\CoreController@getArticles', 'as' => 'articles']);
 Route::get('/article/{id}', ['uses' => 'Admin\CoreController@getArticle', 'as' => 'article'/*, 'middleware' => 'mymiddle'*/]);
 
-Route::match(['get','post'], '/contact', ['uses' => 'Admin\ContactController@show', 'as' => 'contact']);
+Route::match(['get','post'], '/contact/{id?}', ['uses' => 'Admin\ContactController@show', 'as' => 'contact']);
 
 // RESTfull маршрутизация
 

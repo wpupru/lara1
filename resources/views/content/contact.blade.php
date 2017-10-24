@@ -1,6 +1,6 @@
 {{--<pre>
-		{{ print_r(Session::all()) }}
-		</pre>--}}
+	{{ print_r(Session::all()) }}
+</pre>--}}
 
 <div class="">
     <h2>Contact us!</h2>
