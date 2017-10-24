@@ -1,4 +1,4 @@
-{{--	<pre>
+{{--<pre>
 		{{ print_r(Session::all()) }}
 		</pre>--}}
 
@@ -10,7 +10,7 @@
     This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.
 </p>
 
-<form method="post" action="{{ route('contact',array('name'=>'hello')) }}">
+<form method="post" action="{{ route('contact') }}">
     <div class="form-group">
         <label for="name">Name</label>
         <input type="text" class="form-control" id="name" name="name" value="{{ old('name') }}" placeholder="Jane Doe">
@@ -26,6 +26,7 @@
     <div class="form-group">
         <label for="text">Text</label>
         <textarea class="form-control" id="text" name="text" rows="3">{{ old('text') }}</textarea>
+        <input type="hidden" name="_token" value="{{ csrf_token() }}">
     </div>
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>

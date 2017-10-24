@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="{{ csrf_token() }}" />
 
     <title>{{ $title }}</title>
 
@@ -23,12 +24,14 @@
     <div class="jumbotron">
         <div class="container">
             <h1>{{ $title }}</h1>
+            <h3>{{date('Y.M.d', time())}}</h3>
 
             <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
             <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
         </div>
     </div>
 @show
+
 <div class="container">
     <!-- Example row of columns -->
     <div class="row">
@@ -55,6 +58,29 @@
         </div>
 
         @yield('content')
+
+        @if(route('home'))
+
+            <br>This is home page
+
+        @elseif(route('articles'))
+
+            <br> Это страница статей
+
+        @else
+            <br>Это другая страница
+        @endif
+
+        {{--использование циклов--}}
+
+       {{-- <ul>
+            @for($i = 0;$i < count($dataI); $i++)
+                <li>
+                    {{ $dataI[$i] }}
+                </li>
+            @endfor
+        </ul>--}}
+
     </div>
 
     <hr>
