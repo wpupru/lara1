@@ -1,0 +1,1 @@
+<p style="color: navy;text-transform: uppercase;">&copy; 2017 <a href="http://www.hostingvale.com"><strong>HoctingVale</strong></a></p>

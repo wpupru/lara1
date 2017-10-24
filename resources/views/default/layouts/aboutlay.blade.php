@@ -61,7 +61,7 @@
 
     <footer>
         @section('footer')
-            <p style="color: navy;text-transform: uppercase;">&copy; 2017 <a href="http://www.hostingvale.com">HoctingVale</a></p>
+           @include('content.copyright')
         @show
     </footer>
 </div>
