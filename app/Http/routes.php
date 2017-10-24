@@ -11,24 +11,31 @@
 |
 */
 
-Route::get('/', ['as' => 'home', function () {
+/*Route::get('/', ['as' => 'home', function () {
     return view('welcome');
-}]);
+}]);*/
+
+Route::get('/', ['uses' => 'IndexController@show', 'as' => 'home']);
 
 //Route::get('/pages', ['uses' => 'PagesController@index', 'as' => 'pages']);
 // Единый контроллер
 Route::controller('/pages','PagesController', ['getCreate' => 'pages.create']);
 
-Route::get('/form', function (){
-    return view('form');
+/*Route::get('/template', function () {
+    return view('default.template');
+});*/
 
-});
+Route::get('/template', ['uses' => 'IndexController@show', 'as' => 'template']);
 
-Route::get('/about/{id}', 'FirstController@show');
+//Route::get('/template', ['as' => 'template', 'uses' => 'IndexController@show']);
+
+Route::get('/about', ['uses' => 'Admin\AboutController@show', 'as' => 'about']);
 //Route::get('/pages', ['uses' => 'FirstController@getPages', 'as' => 'pages']);
 
 Route::get('/articles', ['uses' => 'Admin\CoreController@getArticles', 'as' => 'articles']);
-Route::get('/article/{id}', ['uses' => 'Admin\CoreController@getArticle', 'as' => 'article']);
+Route::get('/article/{id}', ['uses' => 'Admin\CoreController@getArticle', 'as' => 'article'/*, 'middleware' => 'mymiddle'*/]);
+
+Route::match(['get','post'], 'contact', ['uses' => 'Admin\ContactController@show', 'as' => 'contact']);
 
 // RESTfull маршрутизация
 

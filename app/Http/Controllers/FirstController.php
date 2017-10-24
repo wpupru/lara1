@@ -8,10 +8,10 @@ use App\Http\Requests;
 
 class FirstController extends Controller {
 
-    public function show($id){
-     //   echo __METHOD__;
+    public function show(){
+        echo __METHOD__;
 
-        echo $id;
+     //   echo $id;
     }
 
     public function getPages(){
