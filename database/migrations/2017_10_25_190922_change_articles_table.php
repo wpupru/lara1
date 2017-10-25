@@ -14,7 +14,7 @@ class ChangeArticlesTable extends Migration
     {
         Schema::table('articles', function (Blueprint $table) {
 
-            $table->string('alias')->default('alias')->change();
+          //  $table->string('alias')->default('alias')->change();
 
         });
     }
@@ -28,7 +28,7 @@ class ChangeArticlesTable extends Migration
     {
         Schema::table('articles', function (Blueprint $table) {
 
-          //  $table->dropColumn('alias');
+            $table->dropColumn('alias');
 
         });
     }
